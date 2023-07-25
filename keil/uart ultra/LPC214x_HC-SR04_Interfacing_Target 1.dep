@@ -1,0 +1,11 @@
+Dependencies for Project 'LPC214x_HC-SR04_Interfacing', Target 'Target 1': (DO NOT MODIFY !)
+F (.\Startup.s)(0x64BA4B2A)(--cpu ARM7TDMI --pd "__EVAL SETA 1" -g --apcs=interwork -I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\CMSIS\Include-I C:\Keil_v5\ARM\Inc\Philips--list .\listings\startup.lst --xref -o .\objects\startup.o --depend .\objects\startup.d)
+F (.\lib_funcs.c)(0x64BA4B2A)(--c99 -c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork --split_sections-I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\CMSIS\Include-I C:\Keil_v5\ARM\Inc\Philips-o .\objects\lib_funcs.o --omf_browse .\objects\lib_funcs.crf --depend .\objects\lib_funcs.d)
+I (C:\Keil_v5\ARM\Inc\Philips\lpc214x.h)(0x559CFE30)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x52FDF5A6)
+I (lib_funcs.h)(0x64BA4B2A)
+F (.\lib_funcs.h)(0x64BA4B2A)()
+F (.\main.c)(0x64BDEC5C)(--c99 -c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork --split_sections-I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\CMSIS\Include-I C:\Keil_v5\ARM\Inc\Philips-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
+I (C:\Keil_v5\ARM\Inc\Philips\lpc214x.h)(0x559CFE30)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x52FDF5A6)
+I (lib_funcs.h)(0x64BA4B2A)
